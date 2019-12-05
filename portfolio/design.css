@@ -1,0 +1,92 @@
+
+body{
+	background-image: url(white.jpg);
+}
+
+
+
+#top{
+	margin: 2% 40%;
+	color: red;
+}
+#aboutM{
+	margin: 0 15%;
+	font-family: sans-serif ;
+}
+
+
+
+
+
+/*link1*/
+#per{
+	background-image: url(first.jpg) ;
+	background-size: cover;
+}
+
+#vto{
+	background-image: url(vtoroe.jpg) ;
+	background-size: cover;
+}
+
+#tri{
+	background-image: url(tri.jpg) ;
+	background-size: cover;
+}
+
+#chetiri{
+	background-image: url(chetiri.jpg) ;
+	background-size: cover;
+}
+
+#pyat{
+	background-image: url(pyat.jpg) ;
+	background-size: cover;
+}
+
+#six{
+	background-image: url(six.jpg) ;
+	background-size: cover;
+}
+
+#sem{
+	background-image: url(third.jpg) ;
+	background-size: cover;
+}
+
+#tposl{
+	background-image: url(tposl.jpg) ;
+	background-size: cover;
+}
+/*link2*/
+
+
+#perj{
+	background-image: url(perj.jpg) ;
+	background-size: cover;
+}
+
+#dvaj{
+	background-image: url(dvaj.jpg) ;
+	background-size: cover;
+}
+
+#trij{
+    background-image: url(trij.jpg) ;
+	background-size: cover;
+}
+
+#chej{
+	 background-image: url(chej.jpg) ;
+	background-size: cover;
+}
+
+#pyatj{
+	background-image: url(pyatj.jpg) ;
+	background-size: cover;
+}
+
+#posl{
+	background-image: url(posl.jpg) ;
+	background-size: cover;
+}
